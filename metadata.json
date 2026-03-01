@@ -1,0 +1,5 @@
+{
+  "name": "Campus Companion AI",
+  "description": "An intelligent campus assistant for students, providing academic stats, campus navigation, networking, and emotional support.",
+  "requestFramePermissions": []
+}
